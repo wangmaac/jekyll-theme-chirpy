@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "POSTMAN Path Variables"
+title:  "Postman Path Variables"
 tags: [postman, path, variables queryParam]
 categories: [Github Blog]
 #regenerate: true
