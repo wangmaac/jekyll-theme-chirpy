@@ -3,7 +3,6 @@ layout: post
 title:  "Flutter permission_handler를 이용한 사진첩 및 카메라 권한 적용 (AOS & iOS)"
 tags: [flutter, permission]
 categories: [flutter]
-author: frnd
 ---
 
 
