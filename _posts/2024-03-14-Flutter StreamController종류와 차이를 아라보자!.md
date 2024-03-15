@@ -3,7 +3,6 @@ layout: post
 title:  "Flutter에서 SingleStreamController와 BroadcastStreamController의 차이점"
 tags: [flutter, stream, broadcast]
 categories: [flutter]
-author: frnd
 ---
 
 ## Flutter에서 SingleStreamController와 BroadcastStreamController의 차이점
