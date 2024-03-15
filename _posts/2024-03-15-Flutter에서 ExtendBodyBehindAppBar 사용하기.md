@@ -3,7 +3,6 @@ layout: post
 title:  "Flutter에서 ExtendBodyBehindAppBar 사용하기"
 tags: [flutter, ExtendBodyBehindAppBar, appbar]
 categories: [flutter]
-author: frnd
 ---
 
 # Flutter에서 ExtendBodyBehindAppBar 사용하기
