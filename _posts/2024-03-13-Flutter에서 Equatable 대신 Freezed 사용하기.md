@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Flutter에서 Equatable 대신 Freezed 사용하기"
+title:  "Flutter에서 Equatable 대신 Freezed 사용하기!"
 tags: [flutter, freezed, equatable]
 categories: [flutter]
 ---
